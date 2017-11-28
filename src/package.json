@@ -1,0 +1,11 @@
+{
+  "name": "sometdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo nothing-here-yet"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,7 @@
+version: '3'
+services:
+  app:
+    image: node:carbon
+    command: node /code
+    volumes:
+      - ./src:/code
